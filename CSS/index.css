@@ -1,0 +1,48 @@
+.top{
+
+}
+.top .container{
+    height: 30px;
+    line-height: 30px;
+    background-color: #f3f3f3;
+}
+.top .user_info{
+    float: left;
+}
+.top .nav_list{
+    float: right;
+}
+.top .nav-list .nav-item{
+    float: left;
+    margin-right: 10px;
+}
+.header{
+    height: 100px;
+    background-color: #fff;
+}
+.focus{
+
+}
+.focus .container{
+    height: 440px;
+    background-color: tomato;
+}
+
+.hot{
+
+}
+.hot .container{
+    height: 300px;
+    background-color: blue;
+}
+.floor{
+
+}
+.floor .container{
+    height: 600px;
+    background-color: yellow;
+}
+.footer{
+    height: 252px;
+    background-color: black;
+}
